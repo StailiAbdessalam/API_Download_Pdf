@@ -16,5 +16,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::get('/download_Pdf/{id}', [DownloadPDFController::class, 'download']);
+Route::get('/download_Pdf/{id}', [DownloadPDFController::class, 'download'])->name('download_Pdf');
+Route::post('/saveImage/{id}', [DownloadPDFController::class, 'saveImage']);
+Route::get('/{id}', [DownloadPDFController::class, 'show']);
+Route::get('/', [DownloadPDFController::class, 'getDataVille']);
 

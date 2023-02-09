@@ -14,6 +14,7 @@ class Bien_energie extends Model
     protected $primaryKey = 'energie_id ';
 
     protected $fillable = [
+        'energie_id',
         'energie_type_chauffage',
         'energie_mode_chauffage',
         'energie_valeur_energetique',

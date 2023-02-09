@@ -1,0 +1,281 @@
+﻿Data Scraped Successfully Abondance 74360
+Data Scraped Successfully Alby-sur-Chéran 74540
+Data Scraped Successfully Alex 74290
+Data Scraped Successfully Allèves 74540
+Data Scraped Successfully Allinges 74200
+Data Scraped Successfully Allonzier-la-Caille 74350
+Data Scraped Successfully Amancy 74800
+Data Scraped Successfully Ambilly 74100
+Data Scraped Successfully Andilly 74350
+Data Scraped Successfully Annecy 74000
+Data Scraped Successfully Annemasse 74100
+Data Scraped Successfully Anthy-sur-Léman 74200
+Data Scraped Successfully Arâches-la-Frasse 74300
+Data Scraped Successfully Arbusigny 74930
+Data Scraped Successfully Archamps 74160
+Data Scraped Successfully Arenthon 74800
+Data Scraped Successfully Argonay 74370
+Data Scraped Successfully Armoy 74200
+Data Scraped Successfully Arthaz-Pont-Notre-Dame 74380
+Data Scraped Successfully Ayse 74130
+Data Scraped Successfully Ballaison 74140
+Data Scraped Successfully Bassy 74910
+Data Scraped Successfully Beaumont 74160
+Data Scraped Successfully Bellevaux 74470
+Data Scraped Successfully Bernex 74500
+Data Scraped Successfully Bloye 74150
+Data Scraped Successfully Bluffy 74290
+Data Scraped Successfully Boëge 74420
+Data Scraped Successfully Bogève 74250
+Data Scraped Successfully Bonne 74380
+Data Scraped Successfully Bonnevaux 74360
+Data Scraped Successfully Bonneville 74130
+Data Scraped Successfully Bons-en-Chablais 74890
+Data Scraped Successfully Bossey 74160
+Data Scraped Successfully Boussy 74150
+Data Scraped Successfully Brenthonne 74890
+Data Scraped Successfully Brizon 74130
+Data Scraped Successfully Burdignin 74420
+Data Scraped Successfully Cercier 74350
+Data Scraped Successfully Cernex 74350
+Data Scraped Successfully Cervens 74550
+Data Scraped Successfully Chainaz-les-Frasses 74540
+Data Scraped Successfully Challonges 74910
+Data Scraped Successfully Chamonix-Mont-Blanc 74400
+Data Scraped Successfully Champanges 74500
+Data Scraped Successfully Chapeiry 74540
+Data Scraped Successfully Charvonnex 74370
+Data Scraped Successfully Châtel 74390
+Data Scraped Successfully Châtillon-sur-Cluses 74300
+Data Scraped Successfully Chaumont 74270
+Data Scraped Successfully Chavannaz 74270
+Data Scraped Successfully Chavanod 74650
+Data Scraped Successfully Chêne-en-Semine 74270
+Data Scraped Successfully Chênex 74520
+Data Scraped Successfully Chens-sur-Léman 74140
+Data Scraped Successfully Chessenaz 74270
+Data Scraped Successfully Chevaline 74210
+Data Scraped Successfully Chevenoz 74500
+Data Scraped Successfully Chevrier 74520
+Data Scraped Successfully Chilly 74270
+Data Scraped Successfully Choisy 74330
+Data Scraped Successfully Clarafond-Arcine 74270
+Data Scraped Successfully Clermont 74270
+Data Scraped Successfully Cluses 74300
+Data Scraped Successfully Collonges-sous-Salève 74160
+Data Scraped Successfully Combloux 74920
+Data Scraped Successfully Contamine-Sarzin 74270
+Data Scraped Successfully Contamine-sur-Arve 74130
+Data Scraped Successfully Copponex 74350
+Data Scraped Successfully Cordon 74700
+Data Scraped Successfully Cornier 74800
+Data Scraped Successfully Cranves-Sales 74380
+Data Scraped Successfully Crempigny-Bonneguête 74150
+Data Scraped Successfully Cruseilles 74350
+Data Scraped Successfully Cusy 74540
+Data Scraped Successfully Cuvat 74350
+Data Scraped Successfully Demi-Quartier 74120
+Data Scraped Successfully Desingy 74270
+Data Scraped Successfully Dingy-en-Vuache 74520
+Data Scraped Successfully Dingy-Saint-Clair 74230
+Data Scraped Successfully Domancy 74700
+Data Scraped Successfully Doussard 74210
+Data Scraped Successfully Douvaine 74140
+Data Scraped Successfully Draillant 74550
+Data Scraped Successfully Droisy 74270
+Data Scraped Successfully Duingt 74410
+Data Scraped Successfully Éloise 01200
+Data Scraped Successfully Entrevernes 74410
+Data Scraped Successfully Epagny Metz-Tessy 74330
+Data Scraped Successfully Essert-Romand 74110
+Data Scraped Successfully Etaux 74800
+Data Scraped Successfully Étercy 74150
+Data Scraped Successfully Étrembières 74100
+Data Scraped Successfully Évian-les-Bains 74500
+Data Scraped Successfully Excenevex 74140
+Data Scraped Successfully Faucigny 74130
+Data Scraped Successfully Faverges-Seythenex 74210
+Data Scraped Successfully Feigères 74160
+Data Scraped Successfully Fessy 74890
+Data Scraped Successfully Féternes 74500
+Data Scraped Successfully Fillière 74370
+Data Scraped Successfully Fillinges 74250
+Data Scraped Successfully Franclens 74910
+Data Scraped Successfully Frangy 74270
+Data Scraped Successfully Gaillard 74240
+Data Scraped Successfully Giez 74210
+Data Scraped Successfully Glières-Val-de-Borne 74130
+Data Scraped Successfully Groisy 74570
+Data Scraped Successfully Gruffy 74540
+Data Scraped Successfully Habère-Lullin 74420
+Data Scraped Successfully Habère-Poche 74420
+Data Scraped Successfully Hauteville-sur-Fier 74150
+Data Scraped Successfully Héry-sur-Alby 74540
+Data Scraped Successfully Jonzier-Épagny 74520
+Data Scraped Successfully Juvigny 74100
+Data Scraped Successfully La Balme-de-Sillingy 74330
+Data Scraped Successfully La Balme-de-Thuy 74230
+Data Scraped Successfully La Baume 74430
+Data Scraped Successfully La Chapelle-d'Abondance 74360
+Data Scraped Successfully La Chapelle-Rambaud 74800
+Data Scraped Successfully La Chapelle-Saint-Maurice 74410
+Data Scraped Successfully La Clusaz 74220
+Data Scraped Successfully La Côte-d'Arbroz 74110
+Data Scraped Successfully La Forclaz 74200
+Data Scraped Successfully La Muraz 74560
+Data Scraped Successfully La Rivière-Enverse 74440
+Data Scraped Successfully La Roche-sur-Foron 74800
+Data Scraped Successfully La Tour 74250
+Data Scraped Successfully La Vernaz 74200
+Data Scraped Successfully Larringes 74500
+Data Scraped Successfully Lathuile 74210
+Data Scraped Successfully Le Biot 74430
+Data Scraped Successfully Le Bouchet-Mont-Charvin 74230
+Data Scraped Successfully Le Grand-Bornand 74450
+Data Scraped Successfully Le Reposoir 74950
+Data Scraped Successfully Le Sappey 74350
+Data Scraped Successfully Les Clefs 74230
+Data Scraped Successfully Les Contamines-Montjoie 74170
+Data Scraped Successfully Les Gets 74260
+Data Scraped Successfully Les Houches 74310
+Data Scraped Successfully Les Villards-sur-Thônes 74230
+Data Scraped Successfully Leschaux 74320
+Data Scraped Successfully Loisin 74140
+Data Scraped Successfully Lornay 74150
+Data Scraped Successfully Lovagny 74330
+Data Scraped Successfully Lucinges 74380
+Data Scraped Successfully Lugrin 74500
+Data Scraped Successfully Lullin 74470
+Data Scraped Successfully Lully 74890
+Data Scraped Successfully Lyaud 74200
+Data Scraped Successfully Machilly 74140
+Data Scraped Successfully Magland 74300
+Data Scraped Successfully Manigod 74230
+Data Scraped Successfully Marcellaz 74250
+Data Scraped Successfully Marcellaz-Albanais 74150
+Data Scraped Successfully Margencel 74200
+Data Scraped Successfully Marignier 74970
+Data Scraped Successfully Marigny-Saint-Marcel 74150
+Data Scraped Successfully Marin 74200
+Data Scraped Successfully Marlioz 74270
+Data Scraped Successfully Marnaz 74460
+Data Scraped Successfully Massingy 74150
+Data Scraped Successfully Massongy 74140
+Data Scraped Successfully Maxilly-sur-Léman 74500
+Data Scraped Successfully Megève 74120
+Data Scraped Successfully Mégevette 74490
+Data Scraped Successfully Meillerie 74500
+Data Scraped Successfully Menthon-Saint-Bernard 74290
+Data Scraped Successfully Menthonnex-en-Bornes 74350
+Data Scraped Successfully Menthonnex-sous-Clermont 74270
+Data Scraped Successfully Mésigny 74330
+Data Scraped Successfully Messery 74140
+Data Scraped Successfully Mieussy 74440
+Data Scraped Successfully Minzier 74270
+Data Scraped Successfully Monnetier-Mornex 74560
+Data Scraped Successfully Mont-Saxonnex 74130
+Data Scraped Successfully Montagny-les-Lanches 74600
+Data Scraped Successfully Montriond 74110
+Data Scraped Successfully Morillon 74440
+Data Scraped Successfully Morzine 74110
+Data Scraped Successfully Moye 74150
+Data Scraped Successfully Mûres 74540
+Data Scraped Successfully Musièges 74270
+Data Scraped Successfully Nancy-sur-Cluses 74300
+Data Scraped Successfully Nangy 74380
+Data Scraped Successfully Nâves-Parmelan 74370
+Data Scraped Successfully Nernier 74140
+Data Scraped Successfully Neuvecelle 74500
+Data Scraped Successfully Neydens 74160
+Data Scraped Successfully Nonglard 74330
+Data Scraped Successfully Novel 74500
+Data Scraped Successfully Onnion 74490
+Data Scraped Successfully Orcier 74550
+Data Scraped Successfully Passy 74190
+Data Scraped Successfully Peillonnex 74250
+Data Scraped Successfully Perrignier 74550
+Data Scraped Successfully Pers-Jussy 74930
+Data Scraped Successfully Poisy 74330
+Data Scraped Successfully Praz-sur-Arly 74120
+Data Scraped Successfully Présilly 74160
+Data Scraped Successfully Publier 74500
+Data Scraped Successfully Quintal 74600
+Data Scraped Successfully Reignier-Ésery 74930
+Data Scraped Successfully Reyvroz 74200
+Data Scraped Successfully Rumilly 74150
+Data Scraped Successfully Saint-André-de-Boëge 74420
+Data Scraped Successfully Saint-Blaise 74350
+Data Scraped Successfully Saint-Cergues 74140
+Data Scraped Successfully Saint-Eusèbe 74150
+Data Scraped Successfully Saint-Eustache 74410
+Data Scraped Successfully Saint-Félix 74540
+Data Scraped Successfully Saint-Ferréol 74210
+Data Scraped Successfully Saint-Germain-sur-Rhône 74910
+Data Scraped Successfully Saint-Gervais-les-Bains 74170
+Data Scraped Successfully Saint-Gingolph 74500
+Data Scraped Successfully Saint-Jean-d'Aulps 74430
+Data Scraped Successfully Saint-Jean-de-Sixt 74450
+Data Scraped Successfully Saint-Jean-de-Tholome 74250
+Data Scraped Successfully Saint-Jeoire 74490
+Data Scraped Successfully Saint-Jorioz 74410
+Data Scraped Successfully Saint-Julien-en-Genevois 74160
+Data Scraped Successfully Saint-Laurent 74800
+Data Scraped Successfully Saint-Paul-en-Chablais 74500
+Data Scraped Successfully Saint-Pierre-en-Faucigny 74800
+Data Scraped Successfully Saint-Sigismond 74300
+Data Scraped Successfully Saint-Sixt 74800
+Data Scraped Successfully Saint-Sylvestre 74540
+Data Scraped Successfully Sales 74150
+Data Scraped Successfully Sallanches 74700
+Data Scraped Successfully Sallenôves 74270
+Data Scraped Successfully Samoëns 74340
+Data Scraped Successfully Savigny 74520
+Data Scraped Successfully Saxel 74420
+Data Scraped Successfully Scientrier 74930
+Data Scraped Successfully Sciez 74140
+Data Scraped Successfully Scionzier 74950
+Data Scraped Successfully Serraval 74230
+Data Scraped Successfully Servoz 74310
+Data Scraped Successfully Sevrier 74320
+Data Scraped Successfully Seyssel 74910
+Data Scraped Successfully Seytroux 74430
+Data Scraped Successfully Sillingy 74330
+Data Scraped Successfully Sixt-Fer-à-Cheval 74740
+Data Scraped Successfully Talloires-Montmin 74210
+Data Scraped Successfully Taninges 74440
+Data Scraped Successfully Thollon-les-Mémises 74500
+Data Scraped Successfully Thônes 74230
+Data Scraped Successfully Thonon-les-Bains 74200
+Data Scraped Successfully Thusy 74150
+Data Scraped Successfully Thyez 74300
+Data Scraped Successfully Usinens 74910
+Data Scraped Successfully Vacheresse 74360
+Data Scraped Successfully Vailly 74470
+Data Scraped Successfully Val de Chaise 74210
+Data Scraped Successfully Valleiry 74520
+Data Scraped Successfully Vallières-sur-Fier 74150
+Data Scraped Successfully Vallorcine 74660
+Data Scraped Successfully Vanzy 74270
+Data Scraped Successfully Vaulx 74150
+Data Scraped Successfully Veigy-Foncenex 74140
+Data Scraped Successfully Verchaix 74440
+Data Scraped Successfully Vers 74160
+Data Scraped Successfully Versonnex 74150
+Data Scraped Successfully Vétraz-Monthoux 74100
+Data Scraped Successfully Veyrier-du-Lac 74290
+Data Scraped Successfully Villard 74420
+Data Scraped Successfully Villaz 74370
+Data Scraped Successfully Ville-en-Sallaz 74250
+Data Scraped Successfully Ville-la-Grand 74100
+Data Scraped Successfully Villy-le-Bouveret 74350
+Data Scraped Successfully Villy-le-Pelloux 74350
+Data Scraped Successfully Vinzier 74500
+Data Scraped Successfully Viry 74580
+Data Scraped Successfully Viuz-en-Sallaz 74250
+Data Scraped Successfully Viuz-la-Chiésaz 74540
+Data Scraped Successfully Vougy 74130
+Data Scraped Successfully Vovray-en-Bornes 74350
+Data Scraped Successfully Vulbens 74520
+Data Scraped Successfully Yvoire 74140
+Finished ...
+Execution Time: 28794 ms
