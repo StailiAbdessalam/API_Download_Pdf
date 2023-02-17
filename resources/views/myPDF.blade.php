@@ -612,18 +612,7 @@
     </style>
 </head>
 <body>
-{{--
-<div id="demo-content">
-    <header class="entry-header">
-        <h1 class="entry-title" style="color:#ffffff">Veuillez patienter votre PDF est en cours de creation</h1>
-    </header>
-    <div id="loader-wrapper">
-        <div id="loader"></div>
-        <div class="loader-section section-left"></div>
-        <div class="loader-section section-right"></div>
-    </div>
-</div>
---}}
+
 <div class="page-one-container">
     <div class="header-container">
         <div class="logo-container">

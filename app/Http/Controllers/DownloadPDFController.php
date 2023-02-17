@@ -62,11 +62,13 @@ class DownloadPDFController extends Controller
    }
 
    public function getDataVille($FileJsonName){
-
            $data = [];
-           $data = file_get_contents(storage_path() . "\json\\".$FileJsonName);
-           $data = json_decode(preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $data), true );
-           return $data;
+           if($FileJsonName != null){
+               $data = file_get_contents(storage_path() . "\json\\".$FileJsonName);
+               $data = json_decode(preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $data), true );
+               return $data;
+           }
+           return null;
    }
 
 

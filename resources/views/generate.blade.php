@@ -875,7 +875,7 @@
                         </td>
                         <td class="second">
                             <strong>N'oubliez pas de faire les courses</strong>
-                            <p>Banque (<span id="dis-banque"></span>)Boucherie (<span id="dis-boucherie"></span>) Boulangerie (<span id="dis-boulangerie"><?= $data['poiCounts']['Commerce et Service']['Boulangerie']?></span>) Bureau de poste (<span id="dis-bureau"></span>) Supérette (<span id="dis-superette"></span>) Supermarché et Hypermarché (<span id="dis-supermarche"></span>) </p>
+                            <p>Banque (<span id="dis-banque"></span>)Boucherie (<span id="dis-boucherie"></span>) Boulangerie (<span id="dis-boulangerie"></span>) Bureau de poste (<span id="dis-bureau"></span>) Supérette (<span id="dis-superette"></span>) Supermarché et Hypermarché (<span id="dis-supermarche"></span>) </p>
                         </td>
                         <td class="third">
                             <img src="https://solusoft.espaceo.net/uploads/documents/fiche-commerciale/bar2.png">
@@ -1003,8 +1003,8 @@
     var dossierIcon = 'assets'; //Répertoire des images de l'API
     var domaineURL = '';
 
-    var Lat = <?= $local->latitude ?>;
-    var Lng =  <?= $local->longitude ?>;
+    var Lat = <?= $villeFrance->ville_latitude_deg  ?>;
+    var Lng =  <?= $villeFrance->ville_longitude_deg  ?>;
 
     var Adresse = '';
 
